@@ -1,0 +1,21 @@
+---
+object: set
+id: e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+code: m14
+mtgo_code: m14
+arena_code: m14
+tcgplayer_id: 1113
+name: Magic 2014
+uri: https://api.scryfall.com/sets/e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+scryfall_uri: https://scryfall.com/sets/m14
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Am14&unique=prints
+released_at: '2013-07-19'
+set_type: core
+card_count: 249
+printed_size: 249
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/m14.svg?1694404800

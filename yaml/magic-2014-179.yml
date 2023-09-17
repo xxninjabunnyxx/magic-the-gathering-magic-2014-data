@@ -1,0 +1,114 @@
+---
+object: card
+id: 8f7a6df7-acfc-4047-b119-505f4277225c
+oracle_id: 37864d13-2aaa-477b-8453-a42f77ab4437
+multiverse_ids:
+- 370743
+mtgo_id: 49425
+mtgo_foil_id: 49426
+tcgplayer_id: 69162
+cardmarket_id: 262354
+name: Hunt the Weak
+lang: en
+released_at: '2013-07-19'
+uri: https://api.scryfall.com/cards/8f7a6df7-acfc-4047-b119-505f4277225c
+scryfall_uri: https://scryfall.com/card/m14/179/hunt-the-weak?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/f/8f7a6df7-acfc-4047-b119-505f4277225c.jpg?1562832262
+  normal: https://cards.scryfall.io/normal/front/8/f/8f7a6df7-acfc-4047-b119-505f4277225c.jpg?1562832262
+  large: https://cards.scryfall.io/large/front/8/f/8f7a6df7-acfc-4047-b119-505f4277225c.jpg?1562832262
+  png: https://cards.scryfall.io/png/front/8/f/8f7a6df7-acfc-4047-b119-505f4277225c.png?1562832262
+  art_crop: https://cards.scryfall.io/art_crop/front/8/f/8f7a6df7-acfc-4047-b119-505f4277225c.jpg?1562832262
+  border_crop: https://cards.scryfall.io/border_crop/front/8/f/8f7a6df7-acfc-4047-b119-505f4277225c.jpg?1562832262
+mana_cost: "{3}{G}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Put a +1/+1 counter on target creature you control. Then that creature
+  fights target creature you don't control. (Each deals damage equal to its power
+  to the other.)
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Fight
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set: m14
+set_name: Magic 2014
+set_type: core
+set_uri: https://api.scryfall.com/sets/e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8f7a6df7-acfc-4047-b119-505f4277225c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A37864d13-2aaa-477b-8453-a42f77ab4437&unique=prints
+collector_number: '179'
+digital: false
+rarity: common
+flavor_text: He who hesitates is lunch.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raoul Vitale
+artist_ids:
+- c7c15d49-f84b-4d98-9a34-e80e8347b756
+illustration_id: c4bff224-ab65-41e1-a1e4-d5758f277d84
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12363
+penny_rank: 11046
+prices:
+  usd: '0.07'
+  usd_foil: '0.24'
+  usd_etched: 
+  eur: '0.01'
+  eur_foil: '0.25'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370743
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hunt+the+Weak&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hunt+the+Weak&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hunt+the+Weak
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/69162?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hunt+the+Weak&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/49425?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

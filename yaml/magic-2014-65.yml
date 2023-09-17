@@ -1,0 +1,118 @@
+---
+object: card
+id: 39714ec8-b43c-4d61-9e53-46ac62da2c9f
+oracle_id: 379ef166-a29f-4715-8ce4-9d7d567e4e91
+multiverse_ids:
+- 370760
+mtgo_id: 49315
+mtgo_foil_id: 49316
+tcgplayer_id: 69963
+cardmarket_id: 262943
+name: Nephalia Seakite
+lang: en
+released_at: '2013-07-19'
+uri: https://api.scryfall.com/cards/39714ec8-b43c-4d61-9e53-46ac62da2c9f
+scryfall_uri: https://scryfall.com/card/m14/65/nephalia-seakite?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.jpg?1562828050
+  normal: https://cards.scryfall.io/normal/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.jpg?1562828050
+  large: https://cards.scryfall.io/large/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.jpg?1562828050
+  png: https://cards.scryfall.io/png/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.png?1562828050
+  art_crop: https://cards.scryfall.io/art_crop/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.jpg?1562828050
+  border_crop: https://cards.scryfall.io/border_crop/front/3/9/39714ec8-b43c-4d61-9e53-46ac62da2c9f.jpg?1562828050
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Bird
+oracle_text: |-
+  Flash (You may cast this spell any time you could cast an instant.)
+  Flying
+power: '2'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Flash
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set: m14
+set_name: Magic 2014
+set_type: core
+set_uri: https://api.scryfall.com/sets/e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/39714ec8-b43c-4d61-9e53-46ac62da2c9f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A379ef166-a29f-4715-8ce4-9d7d567e4e91&unique=prints
+collector_number: '65'
+digital: false
+rarity: common
+flavor_text: |-
+  "Keep one eye on the cliff road or you may fall to your death. Keep one eye on the sky or your death may fall on you."
+  —Manfried Ulmach, Elgaud Master-at-Arms
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: '094e2443-c2fc-4a57-b7ad-6740e7f0b9e0'
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23835
+prices:
+  usd: '0.02'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.08'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370760
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nephalia+Seakite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nephalia+Seakite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nephalia+Seakite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/69963?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nephalia+Seakite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/49315?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

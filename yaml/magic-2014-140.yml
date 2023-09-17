@@ -1,0 +1,113 @@
+---
+object: card
+id: f2726d3c-c182-4d8a-a723-0de2c5c4b152
+oracle_id: 7cdeecb5-354a-4a6c-989f-d8c9554befb7
+multiverse_ids:
+- 370741
+mtgo_id: 49451
+mtgo_foil_id: 49452
+tcgplayer_id: 69150
+cardmarket_id: 262325
+name: Fleshpulper Giant
+lang: en
+released_at: '2013-07-19'
+uri: https://api.scryfall.com/cards/f2726d3c-c182-4d8a-a723-0de2c5c4b152
+scryfall_uri: https://scryfall.com/card/m14/140/fleshpulper-giant?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/2/f2726d3c-c182-4d8a-a723-0de2c5c4b152.jpg?1562837152
+  normal: https://cards.scryfall.io/normal/front/f/2/f2726d3c-c182-4d8a-a723-0de2c5c4b152.jpg?1562837152
+  large: https://cards.scryfall.io/large/front/f/2/f2726d3c-c182-4d8a-a723-0de2c5c4b152.jpg?1562837152
+  png: https://cards.scryfall.io/png/front/f/2/f2726d3c-c182-4d8a-a723-0de2c5c4b152.png?1562837152
+  art_crop: https://cards.scryfall.io/art_crop/front/f/2/f2726d3c-c182-4d8a-a723-0de2c5c4b152.jpg?1562837152
+  border_crop: https://cards.scryfall.io/border_crop/front/f/2/f2726d3c-c182-4d8a-a723-0de2c5c4b152.jpg?1562837152
+mana_cost: "{5}{R}{R}"
+cmc: 7.0
+type_line: Creature — Giant
+oracle_text: When Fleshpulper Giant enters the battlefield, you may destroy target
+  creature with toughness 2 or less.
+power: '4'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set: m14
+set_name: Magic 2014
+set_type: core
+set_uri: https://api.scryfall.com/sets/e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f2726d3c-c182-4d8a-a723-0de2c5c4b152/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7cdeecb5-354a-4a6c-989f-d8c9554befb7&unique=prints
+collector_number: '140'
+digital: false
+rarity: uncommon
+flavor_text: He doesn't hate small folk. He just likes the squishing sound they make.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Alex Horley-Orlandelli
+artist_ids:
+- 1631a2ad-bf03-4ab9-b86c-60da982d58a1
+illustration_id: 4a1a3f2f-c9b7-4762-aac4-34fefa1a2a66
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23261
+prices:
+  usd: '0.03'
+  usd_foil: '0.30'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.15'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370741
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fleshpulper+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fleshpulper+Giant&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fleshpulper+Giant
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/69150?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fleshpulper+Giant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/49451?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

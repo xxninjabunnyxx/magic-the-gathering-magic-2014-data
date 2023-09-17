@@ -1,0 +1,117 @@
+---
+object: card
+id: 3469d73e-6de1-4b91-83e3-b1714ac29268
+oracle_id: 0c7163e6-f5a1-45a5-88c2-19dd9ef0a587
+multiverse_ids:
+- 370757
+mtgo_id: 49149
+mtgo_foil_id: 49150
+tcgplayer_id: 69126
+cardmarket_id: 262321
+name: Canyon Minotaur
+lang: en
+released_at: '2013-07-19'
+uri: https://api.scryfall.com/cards/3469d73e-6de1-4b91-83e3-b1714ac29268
+scryfall_uri: https://scryfall.com/card/m14/131/canyon-minotaur?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/4/3469d73e-6de1-4b91-83e3-b1714ac29268.jpg?1595438052
+  normal: https://cards.scryfall.io/normal/front/3/4/3469d73e-6de1-4b91-83e3-b1714ac29268.jpg?1595438052
+  large: https://cards.scryfall.io/large/front/3/4/3469d73e-6de1-4b91-83e3-b1714ac29268.jpg?1595438052
+  png: https://cards.scryfall.io/png/front/3/4/3469d73e-6de1-4b91-83e3-b1714ac29268.png?1595438052
+  art_crop: https://cards.scryfall.io/art_crop/front/3/4/3469d73e-6de1-4b91-83e3-b1714ac29268.jpg?1595438052
+  border_crop: https://cards.scryfall.io/border_crop/front/3/4/3469d73e-6de1-4b91-83e3-b1714ac29268.jpg?1595438052
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Minotaur Warrior
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set: m14
+set_name: Magic 2014
+set_type: core
+set_uri: https://api.scryfall.com/sets/e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/3469d73e-6de1-4b91-83e3-b1714ac29268/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0c7163e6-f5a1-45a5-88c2-19dd9ef0a587&unique=prints
+collector_number: '131'
+digital: false
+rarity: common
+flavor_text: |-
+  "We'll scale these cliffs, traverse Brittle Bridge, and then fight our way down the volcanic slopes on the other side."
+  "Isn't the shortest route through the canyon?"
+  "Yes."
+  "So shouldn't we—"
+  "No."
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Prescott
+artist_ids:
+- a1139fb8-41f5-4a9e-9a74-f662e1a23b35
+illustration_id: ffa3574a-0e2c-4da3-834c-aee8f72ef99d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21444
+prices:
+  usd: '0.02'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.29'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370757
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Canyon+Minotaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Canyon+Minotaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Canyon+Minotaur
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/69126?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Canyon+Minotaur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/49149?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

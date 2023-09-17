@@ -1,0 +1,113 @@
+---
+object: card
+id: 47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb
+oracle_id: 1be478ee-87f3-4265-94d7-08521703c888
+multiverse_ids:
+- 370722
+mtgo_id: 49197
+mtgo_foil_id: 49198
+tcgplayer_id: 69980
+cardmarket_id: 262960
+name: Shrivel
+lang: en
+released_at: '2013-07-19'
+uri: https://api.scryfall.com/cards/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb
+scryfall_uri: https://scryfall.com/card/m14/116/shrivel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/7/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb.jpg?1562828717
+  normal: https://cards.scryfall.io/normal/front/4/7/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb.jpg?1562828717
+  large: https://cards.scryfall.io/large/front/4/7/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb.jpg?1562828717
+  png: https://cards.scryfall.io/png/front/4/7/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb.png?1562828717
+  art_crop: https://cards.scryfall.io/art_crop/front/4/7/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb.jpg?1562828717
+  border_crop: https://cards.scryfall.io/border_crop/front/4/7/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb.jpg?1562828717
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: All creatures get -1/-1 until end of turn.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set: m14
+set_name: Magic 2014
+set_type: core
+set_uri: https://api.scryfall.com/sets/e03ee1c0-ecd2-4fcc-ac3c-e8fdb103a847
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am14&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/m14?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/47b2ffdd-f8a4-49e4-aab1-a8096ba2b7cb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1be478ee-87f3-4265-94d7-08521703c888&unique=prints
+collector_number: '116'
+digital: false
+rarity: common
+flavor_text: |-
+  "Do not weep for the frail. Their time couldn't have been that far off."
+  —Nathrac, plaguesower
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jung Park
+artist_ids:
+- 269392ac-4c06-4650-98e2-d49a5a7f2371
+illustration_id: 36773e6a-841c-4186-8cf5-c164ded564e0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20467
+penny_rank: 14852
+prices:
+  usd: '0.07'
+  usd_foil: '0.28'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '0.30'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370722
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shrivel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shrivel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shrivel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/69980?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shrivel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/49197?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
